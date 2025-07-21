@@ -35,9 +35,6 @@ The goal is to extract actionable insights related to **student placement trends
 - Created DAX measures and calculated columns for KPIs:
   - `Placement Rate %`
   - `Average Salary by Department`
-  - `Attrition Ratio`
-  - `Satisfaction Index`
-
 ---
 
 ### 4. 📈 Analyze the Data
@@ -88,8 +85,7 @@ This project simulates real-world analytics solutions in:
 
 ## 👩‍💻 Author
 
-Created by **Ashmitha R**  
-An aspiring data analyst with expertise in SQL, Power BI, and end-to-end business intelligence workflows.
+Created by **Ashmitha R** - with expertise in SQL, Power BI, and end-to-end business intelligence workflows.
 
 ---
 
